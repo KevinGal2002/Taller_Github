@@ -8,3 +8,13 @@ Pais >> EEUU
 Genero Musical >> Rock and Roll
 Subgenero >> Heavy Metal
 Tipo de Subgenero >> Black Metal
+Nombre >> Don Omar
+Edad >> 49
+Pais >> Costa Rica
+Genero Musical >> Reggeton
+Subgenero >> ClasicoNombre >> Beatles
+Edad >> 50
+Pais >> EEUU
+Genero Musical >> Rock and Roll
+Subgenero >> Heavy Metal
+Tipo de Subgenero >> Black Metal
